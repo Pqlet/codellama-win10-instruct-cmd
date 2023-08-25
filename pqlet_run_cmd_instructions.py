@@ -29,9 +29,9 @@ def main(
         max_batch_size=max_batch_size,
     )
     
-    print("\n==================================\n")
-    print(  "========= Start of chat =========="  )
-    print("\n==================================\n")
+    print("\n==================================")
+    print(  "========= Start of chat ==========")
+    print("==================================\n")
     while 1:
         
         cmd_input = input('> User: ')
