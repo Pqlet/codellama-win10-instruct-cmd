@@ -1,6 +1,6 @@
 # PQlet changes 
 
-## Changed the backend for torch.distributed 
+## Changed the backend for torch.distributed to work on Win10
 
 Inside /llama/generation.py, line 70
 
